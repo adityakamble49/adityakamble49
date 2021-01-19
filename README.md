@@ -6,4 +6,4 @@ I am a self-inspired programmer with 2+ years of experience as a Software Engine
 Recently worked as Software Engineer Intern at Glassdoor with Core Back-End team.
 Worked on Security and Authentication for Core Infrastructure at Glassdoor and implemented Re-Encryption tool to improve encryption key rotation time by 75%.
 
-Interested in Full stack Software Development with Java, Python and JavaScript. Being a curious and motivated about programming, I would love to contribute to making a meaningful impact by solving critical problems and work with team who encourage me to push my boundaries to solve complex problems.
+Interested in Full stack Software Development with Java, Python and JavaScript. Being a curious and motivated about programming
